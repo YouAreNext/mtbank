@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6dabc2df-263a-4173-a906-c10eb1151dce" name="bgz" url="http://185.93.110.97">
+        <fileTransfer host="185.93.110.97" port="22" accessType="SFTP" password="dfc9dfdedfc3df93dfc3dfcbdfc3dfc2dfdddfda" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="03779f0d-05e4-4edb-8322-b149620aad42" name="vesta" url="http://46.4.123.205">
+        <fileTransfer host="46.4.123.205" port="22" accessType="SFTP" password="dfd3dfe1dfe1dfc4df99df93dfdfdffcdff3dffddfd0dfffdffadf93" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8e6c9be1-b372-4fc2-870b-6e081c03d124" name="sak" url="http://u19830.netangels.ru">
+        <fileTransfer host="u19830.netangels.ru" port="21" password="dfc7dfdcdfcddfd8dfc2dfcddfccdf93dfc1dfc5" username="vsempr">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bb7574e1-e68a-456b-845a-c88df0e2442e" name="metropolia" url="http://u3680.netangels.ru">
+        <fileTransfer host="u3680.netangels.ru" port="21" password="df93dfc7dfd8dfd8dfcedfc1dfc7dfcbdfcddfc5" username="younext">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e47bbb06-4240-4148-ae87-c79aa5770383" name="miamoretti" url="http://u25061.netangels.ru">
+        <fileTransfer host="u25061.netangels.ru" port="21" password="dfd0df9bdfd2dfdadfc8dfc0dfdddfc7dfccdfdd" username="u25061">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="68150277-55d8-4ab4-aaeb-57462f968f54" name="pizza" url="http://91.201.54.112">
+        <fileTransfer host="91.201.54.112" port="21" password="dfdfdf99df99dfc5dfc1dfc2dfd9dfdedfd3dfdd" username="web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bcfb4a32-b4d4-4429-9574-b01cd1a899d7" name="pizzaS" url="http://91.201.54.112">
+        <fileTransfer host="91.201.54.112" port="22" accessType="SFTP" password="dfc3dfd2dfcbdf93df99dfdedfcddfc1dfc3dfdd" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3ee48067-e593-4aa0-a61a-ded542f7798c" name="dicory" url="http://185.93.109.86">
+        <fileTransfer host="185.93.109.86" port="22" accessType="SFTP" password="dfccdfc2dfd9dfc4dfc2dfdcdf99dfc0df9ddfc0" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="cab79358-35fe-4ab3-9a90-2241338f53c6" name="Rmp" url="http://91.201.52.148">
+        <fileTransfer host="91.201.52.148" port="21" password="dfc3dfc5dfcddf99dfc9dfd8dfcddfdbdfd8dfd8" username="u11413">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
